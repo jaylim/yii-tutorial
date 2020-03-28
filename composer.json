@@ -1,0 +1,27 @@
+{
+    "name": "jaylim/yii-tutorial",
+    "description": "Yii2 Tutorial",
+    "type": "project",
+    "require": {
+        "yiisoft/yii2": "2.0.34"
+    },
+    "authors": [
+        {
+            "name": "Jay",
+            "email": "jay@pentajeu.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "config": {
+        "process-timeout": 1800,
+        "fxp-asset": {
+            "enabled": false
+        }
+    },
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://asset-packagist.org"
+        }
+    ]
+}
