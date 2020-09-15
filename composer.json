@@ -3,7 +3,7 @@
     "description": "Yii2 Tutorial",
     "type": "project",
     "require": {
-        "yiisoft/yii2": "2.0.34"
+        "yiisoft/yii2": "2.0.38"
     },
     "authors": [
         {
